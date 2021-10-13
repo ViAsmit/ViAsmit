@@ -24,7 +24,7 @@
 <img src="https://komarev.com/ghpvc/?username=viasmit&label=Profile%20views&color=0e75b6&style=flat" alt="viasmit" /> <a href="https://www.github.com/ViAsmit" target="blank"><img src="https://img.shields.io/github/followers/viasmit?label=Follow"></a> 
 
 <p align="center">
-    <a href="https://github.com/PranavMasekar/github-readme-streak-stats">
+    <a href="https://github.com/ViAsmit">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Pranav Masekar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ViAsmit&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
@@ -32,8 +32,8 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/PranavMasekar/github-readme-stats"><img alt="Asmit Vimal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ViAsmit&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/PranavMasekar/github-readme-stats"><img alt="Asmit Vimal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViAsmit&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/ViAsmit"><img alt="Asmit Vimal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ViAsmit&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/ViAsmit"><img alt="Asmit Vimal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViAsmit&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -41,7 +41,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/PranavMasekar/github-readme-activity-graph"><img alt="Asmit Vimal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ViAsmit&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ViAsmit"><img alt="Asmit Vimal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ViAsmit&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
