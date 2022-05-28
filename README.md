@@ -42,11 +42,6 @@
 <br/>
 <br/>
 
-<a href="https://github.com/ViAsmit"><img alt="Asmit Vimal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ViAsmit&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
 <a href="https://github.com/ViAsmit"><img alt="Asmit Vimal's Activity Graph" src="/profile-3d-contrib/profile-night-green.svg" /></a>
 
 <br/>
