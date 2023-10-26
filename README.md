@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Asmit Vimal</h1>  
 <h3 align="center">Student at National Institute of Technology Patna</h3>  
   
-- 🔭 I’m currently working on [Solocl](https://www.solocl.shop/shops/surabhisharts)  
+- 🔭 I’m currently working on [CRED Escapes](https://cred.club/escapes)  
   
 - 🌱 I’m currently learning **Flutter, MERN, Data Science, DSA.**  
   
