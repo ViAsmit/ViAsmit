@@ -1,0 +1,488 @@
+{
+  "data": {
+    "type": "SPLIT",
+    "journeys": [
+      {
+        "key": "DEL-BOM",
+        "fares": {
+          "DEL-AMD-SG8193-20200312*AMD-BOM-SG928-20200312": [
+            {
+              "bag": {
+                "SG8193": {
+                  "cb": "15 KG",
+                  "hb": "7 KG"
+                },
+                "SG928": {
+                  "cb": "15 KG",
+                  "hb": "7 KG"
+                }
+              },
+              "bf": 3391,
+              "c": "INR",
+              "cvf": {
+                "df": 260,
+                "tdf": 260
+              },
+              "d": 0,
+              "f": 0,
+              "hbf": [],
+              "hbo": false,
+              "o": 0,
+              "pk": "09052019181921732",
+              "r": 7.046,
+              "rt": "REFUNDABLE",
+              "t": 574,
+              "tf": 3965,
+              "ttf": 3965,
+              "op": {
+                "oa": "300"
+              },
+              "ftk": "R7qCh3m47HVdGur1gmU0wD6WExu/u/r8mp30ljwHVg+RtjhXGeYJalALu2ILS4FTqdosyCYNiBKvGGMlDb09tHXhDcB6bXxZIPFJ/oFkiH/ga7yOa4E3dw=="
+            }
+          ],
+          "DEL-AMD-UK959-20200312*AMD-BOM-UK924-20200312": [
+            {
+              "bag": {
+                "UK924": {
+                  "cb": "20 KG",
+                  "hb": "7 KG"
+                },
+                "UK959": {
+                  "cb": "20 KG",
+                  "hb": "7 KG"
+                }
+              },
+              "bf": 8650,
+              "c": "INR",
+              "cvf": {
+                "df": 260,
+                "tdf": 260
+              },
+              "d": 0,
+              "f": 0,
+              "hbf": [],
+              "hbo": false,
+              "o": 0,
+              "pk": "09052019181921732",
+              "r": 20.511,
+              "rt": "NONREFUNDABLE",
+              "t": 1702,
+              "tf": 10352,
+              "ttf": 10352,
+              "op": {
+                "oa": "300"
+              },
+              "ftk": "R7qCh3m47HVdGur1gmU0wD6WExu/u/r8mp30ljwHVg+RtjhXGeYJalALu2ILS4FTqdosyCYNiBKvGGMlDb09tHXhDcB6bXxZIPFJ/oFkiH/ga7yOa4E3dw=="
+            }
+          ]
+        }
+      },
+      {
+        "key": "BOM-DEL",
+        "fares": {
+          "BOM-AMD-SG8193-20200314*AMD-DEL-SG928-20200314": [
+            {
+              "bag": {
+                "SG8193": {
+                  "cb": "15 KG",
+                  "hb": "7 KG"
+                },
+                "SG928": {
+                  "cb": "15 KG",
+                  "hb": "7 KG"
+                }
+              },
+              "bf": 3391,
+              "c": "INR",
+              "cvf": {
+                "df": 260,
+                "tdf": 260
+              },
+              "d": 0,
+              "f": 0,
+              "hbf": [],
+              "hbo": false,
+              "o": 0,
+              "pk": "09052019181921732",
+              "r": 7.046,
+              "rt": "REFUNDABLE",
+              "t": 574,
+              "tf": 3965,
+              "ttf": 3965,
+              "op": {
+                "oa": "300"
+              },
+              "ftk": "R7qCh3m47HVdGur1gmU0wD6WExu/u/r8mp30ljwHVg+RtjhXGeYJalALu2ILS4FTqdosyCYNiBKvGGMlDb09tHXhDcB6bXxZIPFJ/oFkiH/ga7yOa4E3dw=="
+            }
+          ],
+          "BOM-AMD-UK959-20200314*AMD-DEL-UK924-20200314": [
+            {
+              "bag": {
+                "UK924": {
+                  "cb": "20 KG",
+                  "hb": "7 KG"
+                },
+                "UK959": {
+                  "cb": "20 KG",
+                  "hb": "7 KG"
+                }
+              },
+              "bf": 8650,
+              "c": "INR",
+              "cvf": {
+                "df": 260,
+                "tdf": 260
+              },
+              "d": 0,
+              "f": 0,
+              "hbf": [],
+              "hbo": false,
+              "o": 0,
+              "pk": "09052019181921732",
+              "r": 20.511,
+              "rt": "NONREFUNDABLE",
+              "t": 1702,
+              "tf": 10352,
+              "ttf": 10352,
+              "op": {
+                "oa": "300"
+              },
+              "ftk": "R7qCh3m47HVdGur1gmU0wD6WExu/u/r8mp30ljwHVg+RtjhXGeYJalALu2ILS4FTqdosyCYNiBKvGGMlDb09tHXhDcB6bXxZIPFJ/oFkiH/ga7yOa4E3dw=="
+            }
+          ]
+        }
+      }
+    ],
+    "flights": {
+      "DEL-AMD-SG8193-20200312": {
+        "fn": "5335",
+        "ac": "6E",
+        "an": "IndiGo",
+        "da": "DEL",
+        "aa": "AMD",
+        "dt": "2145",
+        "at": "0010",
+        "ao": 1,
+        "dtUTC": 1703833591000,
+        "atUTC": 1703919991000,
+        "dur": 126,
+        "depTerInfo": {
+          "t": "3",
+          "g": "1"
+        },
+        "arrTerInfo": {
+          "t": "2",
+          "g": "3"
+        },
+        "ft": "30lh1q4hzqhvssvhtptppzdshqb06",
+        "stopsInfo": {
+          "count": 0,
+          "layovers": [
+            {
+              "ac": "BOM",
+              "dur": 20,
+              "dt": "via bom"
+            }
+          ]
+        },
+        "opBy": "6E"
+      },
+      "AMD-BOM-SG928-20200312": {
+        "fn": "5335",
+        "ac": "6E",
+        "an": "IndiGo",
+        "da": "AMD",
+        "aa": "BOM",
+        "dt": "2145",
+        "at": "0010",
+        "ao": 1,
+        "dtUTC": 1703833591000,
+        "atUTC": 1703919991000,
+        "dur": 126,
+        "depTerInfo": {
+          "t": "3"
+        },
+        "arrTerInfo": {
+          "t": "2"
+        },
+        "ft": "30lh1q4hzqhvssvhtptppzdshqb06",
+        "stopsInfo": {
+          "count": 0,
+          "layovers": [
+            {
+              "ac": "BOM",
+              "dur": 20,
+              "dt": "via bom"
+            }
+          ]
+        },
+        "opBy": "6E"
+      },
+      "BOM-AMD-SG8193-20200314": {
+        "fn": "5335",
+        "ac": "6E",
+        "an": "IndiGo",
+        "da": "BOM",
+        "aa": "AMD",
+        "dt": "2145",
+        "at": "0010",
+        "ao": 1,
+        "dtUTC": 1703833591000,
+        "atUTC": 1703919991000,
+        "dur": 126,
+        "depTerInfo": {
+          "t": "3",
+          "g": "1"
+        },
+        "arrTerInfo": {
+          "t": "2",
+          "g": "3"
+        },
+        "ft": "30lh1q4hzqhvssvhtptppzdshqb06",
+        "stops": 0,
+        "stopsInfo": {
+          "count": 0
+        },
+        "layover": {
+          "ac": "BOM",
+          "dur": 20,
+          "dt": "via bom"
+        },
+        "opBy": "6E"
+      },
+      "AMD-DEL-SG928-20200314": {
+        "fn": "5335",
+        "ac": "6E",
+        "an": "IndiGo",
+        "da": "AMD",
+        "aa": "DEL",
+        "dt": "2145",
+        "at": "0010",
+        "ao": 1,
+        "dtUTC": 1703833591000,
+        "atUTC": 1703919991000,
+        "dur": 126,
+        "depTerInfo": {
+          "t": "3"
+        },
+        "arrTerInfo": {
+          "t": "2"
+        },
+        "ft": "30lh1q4hzqhvssvhtptppzdshqb06",
+        "stopsInfo": {
+          "count": 0,
+          "layovers": [
+            {
+              "ac": "BOM",
+              "dur": 20,
+              "dt": "via bom"
+            }
+          ]
+        },
+        "opBy": "6E"
+      },
+      "AMD-BOM-UK924-20200312": {
+        "fn": "5335",
+        "ac": "6E",
+        "an": "IndiGo",
+        "da": "DEL",
+        "aa": "AMD",
+        "dt": "2145",
+        "at": "0010",
+        "ao": 1,
+        "dtUTC": 1703833591000,
+        "atUTC": 1703919991000,
+        "dur": 126,
+        "depTerInfo": {
+          "t": "3",
+          "g": "1"
+        },
+        "arrTerInfo": {
+          "t": "2",
+          "g": "3"
+        },
+        "ft": "30lh1q4hzqhvssvhtptppzdshqb06",
+        "stopsInfo": {
+          "count": 0,
+          "layovers": [
+            {
+              "ac": "BOM",
+              "dur": 20,
+              "dt": "via bom"
+            }
+          ]
+        },
+        "opBy": "6E"
+      },
+      "BOM-AMD-UK959-20200314": {
+        "fn": "5335",
+        "ac": "6E",
+        "an": "IndiGo",
+        "da": "BOM",
+        "aa": "AMD",
+        "dt": "2145",
+        "at": "0010",
+        "ao": 1,
+        "dtUTC": 1703833591000,
+        "atUTC": 1703919991000,
+        "dur": 126,
+        "depTerInfo": {
+          "t": "3",
+          "g": "1"
+        },
+        "arrTerInfo": {
+          "t": "2",
+          "g": "3"
+        },
+        "ft": "30lh1q4hzqhvssvhtptppzdshqb06",
+        "stops": 0,
+        "stopsInfo": {
+          "count": 0
+        },
+        "layover": {
+          "ac": "BOM",
+          "dur": 20,
+          "dt": "via bom"
+        },
+        "opBy": "6E"
+      },
+      "AMD-DEL-UK924-20200314": {
+        "fn": "5335",
+        "ac": "6E",
+        "an": "IndiGo",
+        "da": "AMD",
+        "aa": "DEL",
+        "dt": "2145",
+        "at": "0010",
+        "ao": 1,
+        "dtUTC": 1703833591000,
+        "atUTC": 1703919991000,
+        "dur": 126,
+        "depTerInfo": {
+          "t": "3"
+        },
+        "arrTerInfo": {
+          "t": "2"
+        },
+        "ft": "30lh1q4hzqhvssvhtptppzdshqb06",
+        "stopsInfo": {
+          "count": 0,
+          "layovers": [
+            {
+              "ac": "BOM",
+              "dur": 20,
+              "dt": "via bom"
+            }
+          ]
+        },
+        "opBy": "6E"
+      },
+      "DEL-AMD-UK959-20200312": {
+        "fn": "5335",
+        "ac": "6E",
+        "an": "IndiGo",
+        "da": "AMD",
+        "aa": "DEL",
+        "dt": "2145",
+        "at": "0010",
+        "ao": 1,
+        "dtUTC": 1703833591000,
+        "atUTC": 1703919991000,
+        "dur": 126,
+        "depTerInfo": {
+          "t": "3"
+        },
+        "arrTerInfo": {
+          "t": "2"
+        },
+        "ft": "30lh1q4hzqhvssvhtptppzdshqb06",
+        "stopsInfo": {
+          "count": 0,
+          "layovers": [
+            {
+              "ac": "BOM",
+              "dur": 20,
+              "dt": "via bom"
+            }
+          ]
+        },
+        "opBy": "6E"
+      }
+    },
+    "specialFares": {
+      "DEL-BLR-UK807-20200312*BLR-BOM-UK858-20200312": {
+        "BOM-DEL-6E818-20200312": {
+          "c": "INR",
+          "bf": 7452,
+          "t": 1970,
+          "f": 0,
+          "d": 0,
+          "tf": 9422,
+          "ttf": 9422,
+          "pk": "19052020205931232"
+        },
+        "BOM-DEL-6E119-20200312": {
+          "c": "INR",
+          "bf": 7452,
+          "t": 1970,
+          "f": 0,
+          "d": 0,
+          "tf": 9422,
+          "ttf": 9422,
+          "pk": "19052020205931232"
+        }
+      },
+      "DEL-BOM-UK858-20200312": {
+        "BOM-DEL-6E818-20200312": {
+          "c": "INR",
+          "bf": 7452,
+          "t": 1970,
+          "f": 0,
+          "d": 0,
+          "tf": 9422,
+          "ttf": 9422,
+          "pk": "19052020205931232"
+        }
+      }
+    },
+    "airlines": {
+      "6E": {
+        "baggage_url": "https://www.goindigo.in/information/travel-information/baggage/bag-allowance.html",
+        "code": "6E",
+        "isInternational": true,
+        "lowcost": true,
+        "name": "IndiGo",
+        "shortURL": "goindigo.in"
+      },
+      "9W": {
+        "baggage_url": "https://https.jetairways.com/EN/BE/TravelInformation/Baggage/baggage-allowances.aspx",
+        "code": "9W",
+        "isInternational": true,
+        "lowcost": false,
+        "name": "Jet Airways",
+        "shortURL": "jetairways.com"
+      }
+    },
+    "airports": {
+      "BLR": {
+        "airportName": "Kempegowda International Airport",
+        "cityName": "Bengaluru",
+        "countryCode": "IN",
+        "iataCode": "BLR",
+        "isAllAirport": false,
+        "timeZone": "Asia/Kolkata"
+      },
+      "DEL": {
+        "airportName": "Indira Gandhi Intl Airport",
+        "cityName": "New Delhi",
+        "countryCode": "IN",
+        "iataCode": "DEL",
+        "isAllAirport": false,
+        "timeZone": "Asia/Kolkata"
+      }
+    },
+    "isInternational": false,
+    "searchToken": "1q4h34ohdtpdtphhdhphphqhh96ohpnpvtpdndudntdwst",
+    "offerText": "get $oa off"
+  }
+}
